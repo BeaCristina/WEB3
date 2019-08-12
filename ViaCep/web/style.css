@@ -1,0 +1,40 @@
+/* 
+Font - Questrial
+<link href="https://fonts.googleapis.com/css?family=Questrial&display=swap" rel="stylesheet">
+
+Font - Varela Round
+<link href="https://fonts.googleapis.com/css?family=Varela+Round&display=swap" rel="stylesheet">
+*/
+
+/*  Font */
+body{
+    font-family: 'Varela Round', sans-serif;
+    color: #5e5e5e;
+}
+h1, h2, h3, h4, h5, h6{
+   font-family: 'Questrial', sans-serif;
+   color: #444444;
+}
+
+/* Components */
+
+/* text */
+.title {
+    text-align: center;
+}
+/* table */
+.lightTable{
+    margin: auto;
+}
+
+.lightTable td, .lightTable th {
+    
+}
+
+.verticalTable tr{
+    border-bottom: solid 1.2px #484848;
+}
+.verticalTable th{
+    border-right: solid 1.2px #484848;
+}
+
